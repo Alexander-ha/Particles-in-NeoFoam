@@ -1,0 +1,13 @@
+build/
+_skbuild/
+*.o
+*.so
+*.a
+*.vtu
+*.vtk
+postProcessing/
+processor*/
+log.*
+cases/*/[1-9]*/
+cases/*/0.*/
+!cases/*/0/
